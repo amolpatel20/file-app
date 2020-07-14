@@ -1,0 +1,4 @@
+Job Description: Develop and maintain microservices based IoT platform
+Roles and Responsibilities: Complete ownership of assigned modules: Design, implement and maintain Mentor juniors
+Required Skills: NodeJS,Angular,Javascript,HTML,CSS,SCSS,Design Pattern,Rest API,PostgreSQL
+Good To have Skills: ReactJS,Docker,Kubernetes,Nginx,Prometheus,UX Designing,UI Designing,Microservices
